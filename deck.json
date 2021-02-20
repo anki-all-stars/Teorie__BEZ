@@ -1,0 +1,506 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "af9b5f18-7396-11eb-8ebc-38d5479d0148",
+    "deck_config_uuid": "51fd0716-67e9-11eb-a855-38d5479d0148",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "51fd0716-67e9-11eb-a855-38d5479d0148",
+            "currentValue": 120,
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxLife": 120,
+            "maxTaken": 60,
+            "name": "[Intense] English C1",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 50,
+                "separate": true
+            },
+            "recover": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 50
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "B4t5qwCp2sypkwM_4tRLyiuBq23vCZ-I6-m-a2g0UNQ.original.fullsize.png",
+        "EPzynjrdBMZqxGVtZ0De2lMmn8QYz1d538kQ5tHBZTo.original.fullsize.png",
+        "Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png",
+        "RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png",
+        "ahkRXu3hLl8teSoMZxoGu3aighUDica4PFW0tAHeiCs.original.fullsize.png",
+        "taDxaRCxpZHxEWAQNoG_mNYVFHi1XC78NEUEqJ549RM.original.fullsize.png",
+        "ty9q0zDzjWAJRAC9a1XD53AAzBQcDt1-2T813PP9VK0.original.fullsize.png"
+    ],
+    "name": "Teorie::BEZ",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n color: black;\n text-align: center;\n background-color: white;\n}\n\n.solution {\n text-align: left;\n}",
+            "flds": [
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Question",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Solution",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "name": "Source",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "CVUT",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "osy-3-tyden"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{Question}}\n\n<hr id=answer>\n\n<div style=\"text-align: center;\">\n    <div style=\"display: inline-block; text-align: left;\">\n\t\t{{Solution}}\n    </div>\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Question}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj kryptologii",
+                "Tvorba a luštění šifer",
+                "<img src=\"Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png\">"
+            ],
+            "guid": "zT=olbVl/!",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj kryptografii",
+                "Věda o tvorbě šifer",
+                "<img src=\"Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png\">"
+            ],
+            "guid": "EvAqA;C-NQ",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj kryptoanalýzu",
+                "Věda o luštění šifer",
+                "<img src=\"Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png\">"
+            ],
+            "guid": "J=Cbil0K22",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj otevřený text",
+                "Text, který je určen k utajení",
+                "<img src=\"Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png\">"
+            ],
+            "guid": "D:`kUoQrgz",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj šifrování",
+                "Proces převádějící otevřený text do šifrovaného textu",
+                "<img src=\"Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png\">"
+            ],
+            "guid": "Jllmx@]yHn",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj šifru",
+                "Metoda, která převádí text do utajené formy",
+                "<img src=\"Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png\">"
+            ],
+            "guid": "ej6Af3laUi",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj dešifrování",
+                "Proces opačný k procesu šifrování, je založený na znalosti šifry",
+                "<img src=\"Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png\">"
+            ],
+            "guid": "q;xD^F*>>T",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš kroky kryptoanalýzy",
+                "<div>- Identifikace - jaký šifrovací systém byl použit.</div>\n<div>- Prolomení - způsob šifrování zprávy, určení neměnných části systému. Kolik šifrových zpráv je potřebných k prolomení.</div>\n<div>- Nastavení - určení, jak se mění proměnlivé části kryptosystému.</div>",
+                "<img src=\"Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png\">"
+            ],
+            "guid": "k}9}6JuT$2",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rozdíl mezi šifrou a kódem",
+                "<div>Základní pojmy v kryptologii (2)</div>\n<div>Šifra - utajení obsahu zprávy před nepovolanou osobou. Kód - neutajuje se zpráva, ale upravuje tak, aby ji bylo možné přenést přes nějaký kanál!</div>\n<div>- Například kódy pro detekci chyb - paritní, nebo</div>\n<div>- samoopravné kódy - Hammingovy kódy</div>",
+                "<img src=\"ahkRXu3hLl8teSoMZxoGu3aighUDica4PFW0tAHeiCs.original.fullsize.png\">"
+            ],
+            "guid": "JFeibc_m8I",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Šifrovací metody do nástupu počítačů",
+                "<div>(1) substituční,</div>\n<div>(2) transpoziční,</div>\n<div>(3) metoda kódové knihy.&nbsp;</div><div><br></div><div>Šifrovací systémy byly založeny na jedné z nich nebo na nějaké kombinaci 2 nebo 3 těchto metod.</div>",
+                "<img src=\"ahkRXu3hLl8teSoMZxoGu3aighUDica4PFW0tAHeiCs.original.fullsize.png\">"
+            ],
+            "guid": "ndUsO^t5n",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš šifry využívající substituci",
+                "<div>Šifry využívající substituci</div>\n<div><br></div><div>- Jednoduchá substituce - jednu a tutéž záměnu (zamíchání) pro celý OT \\(\\Rightarrow\\), Caesarova šifra \\((\\mathrm{A} \\rightarrow \\mathrm{D}, \\mathrm{B} \\rightarrow \\mathrm{E}, \\ldots \\mathrm{W} \\rightarrow \\mathrm{Z}, \\mathrm{X} \\rightarrow \\mathrm{A},\\).&nbsp;<span style=\"color: var(--text-fg);\">\\(Y \\rightarrow B, Z \\rightarrow C)\\). Pokud \\(A=0, B=1, \\ldots, Z=25, p\\) označuje</span></div>\n<div>písmeno OT a c označuje písmeno ŠT, pak \\(c=|p+3|_{26},\\) kde \\(0 \\leq c \\leq 25\\)</div><div><br></div>\n<div>- Polyalfabetická substituce - pro každé písmeno OT můžeme abecedu nově zamíchat. Například k písmenům OT popořadě přičítáme (modulo 26) nějaká jiná čísla - písmena nahrazena čísly&nbsp;<span style=\"color: var(--text-fg);\">- klíč. Periodicky opakující se heslo \\(\\Rightarrow\\) Vigènerův systém.</span></div>",
+                "<img src=\"ty9q0zDzjWAJRAC9a1XD53AAzBQcDt1-2T813PP9VK0.original.fullsize.png\">"
+            ],
+            "guid": "jGRVi5m&QE",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj symetrickou šifru",
+                "Šifra, která používá stejný klíč pro šiforvání i dešifrování, například substituční, transpoziční",
+                "<img src=\"ty9q0zDzjWAJRAC9a1XD53AAzBQcDt1-2T813PP9VK0.original.fullsize.png\">"
+            ],
+            "guid": "fPdyEc%-D]",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš šifrování pomocí kódové knihy",
+                "Slovník s běžnými frázemi tvořenými jedním nebo více písmeny, čísly nebo slovy, typicky nahrazované čtveřícemi nebo pěticemi písmen nebo čísel - kódové skupiny<div><br></div><div>Překlad z jazyka do jazyka je technicky šifrování pomocí kódové knihy</div>",
+                "<img src=\"taDxaRCxpZHxEWAQNoG_mNYVFHi1XC78NEUEqJ549RM.original.fullsize.png\">"
+            ],
+            "guid": "z;?4-ymcj|",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Z jakých znalostí může být posuzována šifra",
+                "<div>Za předpokladu znalosti šifry, kryptoanalytik provádí luštění se znalostí</div><div><br></div><div>(1) ŠT (Ciphertext-only attack) (systém rozluštěný v této situaci za rozumnou dobu je nepoužitelný)</div>\n<div>(2) ŠT a jeden nebo víc OT (Known-plaintext attack)</div>\n<div>(3) ŠT a odpovídající vybraný OT (Chosen-plaintext attack)</div>\n<div>(4) ŠT, který je vybrán na základě určitého významu a k tomu dešifrovaný odpovídající OT (Chosen-ciphertext attack)</div>\n<div>(5) sjednocení metody 3. a 4. (Chosen-text atack)</div>",
+                "<img src=\"B4t5qwCp2sypkwM_4tRLyiuBq23vCZ-I6-m-a2g0UNQ.original.fullsize.png\">"
+            ],
+            "guid": "Ki]=OBXw~5",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš stenografii",
+                "Metoda založená na principu vkládání zprávy do běžných a nepodezřelých objektů - textových zpráv, programů, obrázků atd...",
+                "<img src=\"RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png\">"
+            ],
+            "guid": "sLL5H:Hynn",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš monogram",
+                "Jedno písmeno v jakékoli abecedě",
+                "<img src=\"RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png\">"
+            ],
+            "guid": "F]mHY25pT0",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš bigram",
+                "Jakákoliv dvojce sousedních písmen v textu",
+                "<img src=\"RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png\">"
+            ],
+            "guid": "D)ss39B{KG",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš trigram",
+                "Trojice po sobě následujících písmen",
+                "<img src=\"RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png\">"
+            ],
+            "guid": "DJ3%1TI2HT",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš polygram",
+                "Nějaký počet písmen po sobě jdoucích v textu",
+                "<img src=\"RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png\">"
+            ],
+            "guid": "l>dyHf4l#j",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš symbol",
+                "Jakékoliv písmeno, číslice, atd, které se mohou v textu vyskytnout",
+                "<img src=\"RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png\">"
+            ],
+            "guid": "M.Ej/tzj+a",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš řetězec",
+                "Jakákoliv posloupnost po sobě jdoucích symbolů",
+                "<img src=\"RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png\">"
+            ],
+            "guid": "v%@xi_^.P6",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš Caesarovu šifru",
+                "<div>Šifra použitá Juliem Caesarem je vyjádřena vztahem: \\(c=|p+3|_{26}\\) kde \\(0 \\leq c \\leq 25\\)</div>",
+                "<img src=\"EPzynjrdBMZqxGVtZ0De2lMmn8QYz1d538kQ5tHBZTo.original.fullsize.png\">"
+            ],
+            "guid": "k`JuC*5uY&",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vlastnosti exponenciální šifry",
+                "Jsou založeny na modulárním omocňování<div>Odolné vůči kryptoanalýza</div>",
+                ""
+            ],
+            "guid": "n=Z=+cwhw*",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jakým způsobem vypočátáme ŠT v exponenciální šifře",
+                "\\(c = |p^e|_m\\)<br><div>kde&nbsp;\\(\\0 \\leq c&nbsp; &lt; m)</div>",
+                ""
+            ],
+            "guid": "ge$sv,Cq8?",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak dešifruješ exponenciální šifru",
+                "<div>K dešifrování bloku \\(c\\) ŠT potřebujeme znát dešifrovací klíč, tj. celé číslo \\(d\\), pro které platí \\(d e \\equiv 1(\\bmod m-1) \\Rightarrow d\\) je multiplikativní inverze \\(e\\) modulo \\((m-1),\\) která existuje, pokud \\(\\operatorname{gcd}(e, m-1)=1 \\Rightarrow\\) dešifrovací vztah pro náš blok \\(p\\) OT získame:</div>\n<div>\\[</div>\n<div>\\left|c^{d}\\right|_{m}=\\left|\\left(p^{e}\\right)^{d}\\right|_{m}=\\left|p^{e d}\\right|_{m}=\\left|p^{k(m-1)+1}\\right|_{m}=\\left|\\left(p^{m-1}\\right)^{k} p\\right|_{m}=|p|_{m}</div>\n<div>\\]</div>\n<div>kde \\(d e=k(m-1)+1,\\) pro nějaké celé číslo \\(k,\\) protože \\(d e \\equiv 1\\) \\((\\bmod m-1)\\). Při odvození vztahu pro dešifrování bloku ŠT jsme použili malou Fermatovu větu: \\(p^{m-1} \\equiv 1(\\bmod m)\\).</div>",
+                ""
+            ],
+            "guid": "iKd5+Sv#.L",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Časová složitost výpočtu exponenciální šifry",
+                "<div>Časová složitost<br></div>\n<div>- Číslo \\(m\\) můžeme vyjádřit pomocí \\(k=\\left\\lceil\\log _{2}(m)\\right\\rceil\\) bitù</div>\n<div>- Pro každý blok \\(p\\) OT zašifrovaný pomocí \\(\\left|p^{e}\\right|_{m}\\) potřebujeme \\(O\\left(k^{3}\\right)\\) bitových operací</div>\n<div><br></div><div>- Před dešifrováním potřebujeme nalézt inverzi \\(d\\) čísla \\(e\\) modulo \\(m-1\\). Výpočet proveden EEA potřebuje \\(O\\left(\\log 2^{k}\\right)\\) bitových operací. Tento výpočet je potřebné provést jen jednou.</div>\n<div>- K převodu bloku ŠT na blok OT potřebujeme vypočítat \\(\\left|c^{d}\\right|_{m}\\), to je možné vykonat s použitím \\(O\\left(k^{3}\\right)\\) bitových operací. S použitím modulárního umocnování muže být celý proces šifrování a dešifrování proveden značně rychle.<br></div><div><br></div><div><br></div>\n<div>Na druhé straně kryptoanalýza zprávy šifrované s použitím exponenciální šifry obecně nemůže být vykonána v přijatelně době se standardními výpočetními prostředky.</div>",
+                ""
+            ],
+            "guid": "u0)`zYzhai",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problém diskrétního logaritmu",
+                "Nalezení&nbsp;\\(e\\) z&nbsp;\\(c = |p^e|_m\\). Říkáme, že&nbsp;\\(e\\) je logairtmus&nbsp;\\(c\\) o bázi&nbsp;\\(p\\) modulo&nbsp;\\(m\\)<div>Nejrychlejší algoritmy potřebují&nbsp;\\(e^{\\sqrt{\\log m \\log \\log m}}\\)</div>",
+                ""
+            ],
+            "guid": "Cc1f{=^x8S",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš jakým způsobem lze zřídit společný klíč",
+                "Nechť&nbsp;\\(m\\) je velké prvočíslo a nechť je&nbsp;\\(a\\) je generátorem groupy&nbsp;\\(\\mathbb{Z}^*_m\\). Každý subjekt v síti si náhodně zvolí celé číslo&nbsp;\\(k_i\\) jako klíč tak, že&nbsp;\\(gcd(k_i, m - 1) = 1\\)<div><br></div><div>Subjekty mají svoje klíče&nbsp;\\(k_1, k_2\\).&nbsp;</div><div><br></div><div>První subjekt pošle druhému číslo&nbsp;\\(y_1 = |a^{k_1}|_m \\quad 0 &lt; y_1 &lt; m\\).</div><div>Druhý subjekt vypočítá společný klíč K následovně&nbsp;\\(K = |y_1^{k_2}|_m = |a^{k_1k_2}|_m \\quad 0 &lt; K &lt; m\\)</div><div><br></div><div>Podobně, druhý subjekt vyšle prvnímu subjektu číslo&nbsp;\\(y_2 = |a^{k_2}|_m&nbsp; \\quad 0 &lt; y_2 &lt; m\\)</div><div><br></div><div>A první objekt si vypočítá společný klíč K pomocí vztahu</div><div><br></div><div>\\( K = |y_2^{k_1}|_m = |a^{k_1k_2}|_m \\quad 0 &lt; K &lt; m\\)<br></div><div><br></div><div>Neautorizované subjekty nacházející se v komunikační síti nemohou najít společný klíč K v rozumném počítačovém čase, protože jsou nucení hledat logaritmus modulo \\(m\\) pro nalezení \\(K\\)</div><div><br></div><div>Tomto algoritmu se v podstatě říká Diffie-Hellmanův</div>",
+                ""
+            ],
+            "guid": "Eae&[cH64|",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-2-tyden"
+            ]
+        }
+    ]
+}
