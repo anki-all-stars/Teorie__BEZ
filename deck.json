@@ -38,7 +38,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 50,
+                "perDay": 60,
                 "separate": true
             },
             "recover": 5,
@@ -63,9 +63,18 @@
     "media_files": [
         "B4t5qwCp2sypkwM_4tRLyiuBq23vCZ-I6-m-a2g0UNQ.original.fullsize.png",
         "EPzynjrdBMZqxGVtZ0De2lMmn8QYz1d538kQ5tHBZTo.original.fullsize.png",
+        "GuLk0IxP4_o60WmK3VoUruTrDLYAYmdHs-1TdjPTZxk.original.fullsize.png",
         "Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png",
+        "LHlBbI2IOSsPL66Ykn7nuCf3LcFRdMq_9nJGP6cQNFw.original.fullsize.png",
         "RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png",
         "ahkRXu3hLl8teSoMZxoGu3aighUDica4PFW0tAHeiCs.original.fullsize.png",
+        "bM_Jb6xMNdYdjoRPiQwizCfFp5gQCjw-ahqwZjA3Rw0.original.fullsize.png",
+        "dpd8tOvK-FAWIQYgYm3nDzQWjbh5rk3GAQNZYkgtBv8.original.fullsize.png",
+        "paste-3aff1931ca01dc503087b70890224747a1d5e940.jpg",
+        "paste-9554cac71d0b093d5e702664831f468f11a74918.jpg",
+        "paste-dc63f2d6e79ba5f330da25654406c0f9a812ab7b.jpg",
+        "paste-f12ee92732f11a53a07bb96396b0e536037a9f5c.jpg",
+        "paste-f5da1e82e37c751528197bfc2d7787d8502039b9.jpg",
         "taDxaRCxpZHxEWAQNoG_mNYVFHi1XC78NEUEqJ549RM.original.fullsize.png",
         "ty9q0zDzjWAJRAC9a1XD53AAzBQcDt1-2T813PP9VK0.original.fullsize.png"
     ],
@@ -118,7 +127,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "osy-3-tyden"
+                "psi-2-tyden"
             ],
             "tmpls": [
                 {
@@ -246,7 +255,7 @@
             "__type__": "Note",
             "fields": [
                 "Rozdíl mezi šifrou a kódem",
-                "<div>Základní pojmy v kryptologii (2)</div>\n<div>Šifra - utajení obsahu zprávy před nepovolanou osobou. Kód - neutajuje se zpráva, ale upravuje tak, aby ji bylo možné přenést přes nějaký kanál!</div>\n<div>- Například kódy pro detekci chyb - paritní, nebo</div>\n<div>- samoopravné kódy - Hammingovy kódy</div>",
+                "<div>Šifra - utajení obsahu zprávy před nepovolanou osobou.<br></div><div><br></div><div>&nbsp;Kód - neutajuje se zpráva, ale upravuje tak, aby ji bylo možné přenést přes nějaký kanál!</div>\n<div>- Například kódy pro detekci chyb - paritní, nebo</div>\n<div>- samoopravné kódy - Hammingovy kódy</div>",
                 "<img src=\"ahkRXu3hLl8teSoMZxoGu3aighUDica4PFW0tAHeiCs.original.fullsize.png\">"
             ],
             "guid": "JFeibc_m8I",
@@ -427,6 +436,58 @@
         {
             "__type__": "Note",
             "fields": [
+                "Popiš afinní substituční šifry",
+                "<div>- Zranitelné při použití kryptoanalýzy založené na frekvenční analýze zašifrovaného textu.</div>\n<div>- K eliminaci těchto nevýhod byl vyvinut systém, který nahrazuje bloky určité délky otevřeného textu \\(\\Rightarrow\\) šifry blokové - polygrafické.</div>",
+                "<img src=\"bM_Jb6xMNdYdjoRPiQwizCfFp5gQCjw-ahqwZjA3Rw0.original.fullsize.png\">"
+            ],
+            "guid": "e4aioK%ph2",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš blokové šifry",
+                "<div>Blokové - polygrafické substituční šifry Uvažujeme šifru s blokem o délce jednoho bigramu OT, který je převáděn do ŠT s dvoupísmenovými bloky. Na konec zprávy přidáváme písmeno X v případě, že zpráva končí blokem s jedním písmenem.<br><br>Pro každou dvojici je potom vypočten ST napříkald:</div><div><br></div><div><img src=\"paste-3aff1931ca01dc503087b70890224747a1d5e940.jpg\"><br></div><div><br></div><div>Dešifrování bude řešení dvou lineárních rovnic v modulární aritmetice s modulem 26 pro neznáme p_1 a p_2:<br><br><img src=\"paste-9554cac71d0b093d5e702664831f468f11a74918.jpg\"><br></div><div><br></div><div>Maticově:</div><div><img src=\"paste-f5da1e82e37c751528197bfc2d7787d8502039b9.jpg\"><br></div><div><br></div><div>Zobecněně:</div><div><br></div><div><img src=\"paste-dc63f2d6e79ba5f330da25654406c0f9a812ab7b.jpg\"><br></div><div><br></div><div>Shrnutí:</div><div><br></div><div><img src=\"paste-f12ee92732f11a53a07bb96396b0e536037a9f5c.jpg\"><br></div>",
+                "<div>shorten the fucking answer</div><div><br></div><img src=\"bM_Jb6xMNdYdjoRPiQwizCfFp5gQCjw-ahqwZjA3Rw0.original.fullsize.png\"><div><img src=\"GuLk0IxP4_o60WmK3VoUruTrDLYAYmdHs-1TdjPTZxk.original.fullsize.png\"><br></div>"
+            ],
+            "guid": "FIMVp5iF)2",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš polyalfabetické šifry",
+                "<div><span style=\"color: var(--text-fg);\">Systém polyalfabetických šifer nad abecedou \\(\\mathbb{Z}_{N}\\) tvoří konečná případně nekonečná posloupnost monoalfabetických transformací \\(\\left(T_{1}, T_{2}, \\ldots, T_{n}, \\ldots\\right)\\) nad abecedou \\(\\mathbb{Z}_{N}\\). Tyto posloupnosti tvoří prostor klíčů tohoto systému</span><br></div><div>\n<div><br></div><div>\\(K=\\left\\{T_{1}, T_{2}, \\ldots, T_{n}, \\ldots\\right\\}\\)</div>\n<div>Specielním případem polyalfabetických šifer je systém Vigenèrovských šifer. Tyto šifry tvoří konečnou posloupnost Caesarovských transformací. Naříklad při základní abecedě mohout být posloupnosti klíčů:</div>\n<div>\\(K=\\left\\{k_{1}, k_{2}, \\ldots, k_{n}\\right\\}\\)</div>\n<div>kde \\(k_{i} \\in \\mathbb{Z}_{N},\\) pro \\(i \\in\\langle 1,2, \\ldots, n\\rangle\\)</div></div><div><br></div>",
+                "<img src=\"dpd8tOvK-FAWIQYgYm3nDzQWjbh5rk3GAQNZYkgtBv8.original.fullsize.png\"><div><img src=\"LHlBbI2IOSsPL66Ykn7nuCf3LcFRdMq_9nJGP6cQNFw.original.fullsize.png\"><br></div>"
+            ],
+            "guid": "C384mYv!*Q",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš tranzpoziční šifry",
+                "<div>Transpoziční šifry</div>\n<div>Transpozice - permutace</div>\n<div>- Cílem substituce je konfúze, tj. ztížení určení způsobu transformace zprávy a klíče na ŠT.</div>\n<div>- Transpozice je šifrování, kde dochází ke změně uspořádání písmen zprávy.</div>\n<div>- Cílem transpozice je difúze, tj. rozptyl informace zprávy nebo klíče po celé šííí ŠT.</div>\n<div>- Transpozice odstraňuje vzniklé systematické struktury.</div>\n<div>- Transpozice je častokrát označována za permutaci, protože mění uspořádání symbolů zprávy.</div>\n<div>Sloupcová transpozice Sloupcová transpozice přerozděluje znaky OT do sloupců.</div>",
+                ""
+            ],
+            "guid": "rZ]-76*rE)",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Vlastnosti exponenciální šifry",
                 "Jsou založeny na modulárním omocňování<div>Odolné vůči kryptoanalýza</div>",
                 ""
@@ -441,7 +502,7 @@
             "__type__": "Note",
             "fields": [
                 "Jakým způsobem vypočátáme ŠT v exponenciální šifře",
-                "\\(c = |p^e|_m\\)<br><div>kde&nbsp;\\(\\0 \\leq c&nbsp; &lt; m)</div>",
+                "\\(c = |p^e|_m\\)<br><div>kde&nbsp;\\(0 \\leq c&nbsp; &lt; m\\)</div>",
                 ""
             ],
             "guid": "ge$sv,Cq8?",
@@ -454,7 +515,7 @@
             "__type__": "Note",
             "fields": [
                 "Jak dešifruješ exponenciální šifru",
-                "<div>K dešifrování bloku \\(c\\) ŠT potřebujeme znát dešifrovací klíč, tj. celé číslo \\(d\\), pro které platí \\(d e \\equiv 1(\\bmod m-1) \\Rightarrow d\\) je multiplikativní inverze \\(e\\) modulo \\((m-1),\\) která existuje, pokud \\(\\operatorname{gcd}(e, m-1)=1 \\Rightarrow\\) dešifrovací vztah pro náš blok \\(p\\) OT získame:</div>\n<div>\\[</div>\n<div>\\left|c^{d}\\right|_{m}=\\left|\\left(p^{e}\\right)^{d}\\right|_{m}=\\left|p^{e d}\\right|_{m}=\\left|p^{k(m-1)+1}\\right|_{m}=\\left|\\left(p^{m-1}\\right)^{k} p\\right|_{m}=|p|_{m}</div>\n<div>\\]</div>\n<div>kde \\(d e=k(m-1)+1,\\) pro nějaké celé číslo \\(k,\\) protože \\(d e \\equiv 1\\) \\((\\bmod m-1)\\). Při odvození vztahu pro dešifrování bloku ŠT jsme použili malou Fermatovu větu: \\(p^{m-1} \\equiv 1(\\bmod m)\\).</div>",
+                "<div>K dešifrování bloku \\(c\\) ŠT potřebujeme znát dešifrovací klíč, tj. celé číslo \\(d\\), pro které platí \\(d e \\equiv 1(\\bmod m-1) \\Rightarrow d\\) je multiplikativní inverze \\(e\\) modulo \\((m-1),\\) která existuje, pokud \\(\\operatorname{gcd}(e, m-1)=1 \\Rightarrow\\) dešifrovací vztah pro náš blok \\(p\\) OT získame:</div>\n<div>\\(\\left|c^{d}\\right|_{m}=\\left|\\left(p^{e}\\right)^{d}\\right|_{m}=\\left|p^{e d}\\right|_{m}=\\left|p^{k(m-1)+1}\\right|_{m}=\\left|\\left(p^{m-1}\\right)^{k} p\\right|_{m}=|p|_{m}\\)</div>\n<div>kde \\(d e=k(m-1)+1,\\) pro nějaké celé číslo \\(k,\\) protože \\(d e \\equiv 1\\) \\((\\bmod m-1)\\). Při odvození vztahu pro dešifrování bloku ŠT jsme použili malou Fermatovu větu: \\(p^{m-1} \\equiv 1(\\bmod m)\\).</div>",
                 ""
             ],
             "guid": "iKd5+Sv#.L",
