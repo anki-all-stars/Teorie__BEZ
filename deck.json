@@ -51,7 +51,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 50
+                "perDay": 100
             },
             "timer": 0
         }
@@ -127,7 +127,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "psi-2-tyden"
+                "bez-1-tyden"
             ],
             "tmpls": [
                 {
@@ -280,8 +280,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Popiš šifry využívající substituci",
-                "<div>Šifry využívající substituci</div>\n<div><br></div><div>- Jednoduchá substituce - jednu a tutéž záměnu (zamíchání) pro celý OT \\(\\Rightarrow\\), Caesarova šifra \\((\\mathrm{A} \\rightarrow \\mathrm{D}, \\mathrm{B} \\rightarrow \\mathrm{E}, \\ldots \\mathrm{W} \\rightarrow \\mathrm{Z}, \\mathrm{X} \\rightarrow \\mathrm{A},\\).&nbsp;<span style=\"color: var(--text-fg);\">\\(Y \\rightarrow B, Z \\rightarrow C)\\). Pokud \\(A=0, B=1, \\ldots, Z=25, p\\) označuje</span></div>\n<div>písmeno OT a c označuje písmeno ŠT, pak \\(c=|p+3|_{26},\\) kde \\(0 \\leq c \\leq 25\\)</div><div><br></div>\n<div>- Polyalfabetická substituce - pro každé písmeno OT můžeme abecedu nově zamíchat. Například k písmenům OT popořadě přičítáme (modulo 26) nějaká jiná čísla - písmena nahrazena čísly&nbsp;<span style=\"color: var(--text-fg);\">- klíč. Periodicky opakující se heslo \\(\\Rightarrow\\) Vigènerův systém.</span></div>",
+                "Popiš šifru polyalfabetická substituce",
+                "<div>Polyalfabetická substituce - pro každé písmeno OT můžeme abecedu nově zamíchat. Například k písmenům OT popořadě přičítáme (modulo 26) nějaká jiná čísla - písmena nahrazena čísly&nbsp;<span style=\"color: var(--text-fg);\">- klíč.</span><br></div>",
                 "<img src=\"ty9q0zDzjWAJRAC9a1XD53AAzBQcDt1-2T813PP9VK0.original.fullsize.png\">"
             ],
             "guid": "jGRVi5m&QE",
@@ -358,7 +358,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Popiš bigram",
+                "Definuj bigram",
                 "Jakákoliv dvojce sousedních písmen v textu",
                 "<img src=\"RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png\">"
             ],
@@ -410,7 +410,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Popiš řetězec",
+                "Definuj řetězec",
                 "Jakákoliv posloupnost po sobě jdoucích symbolů",
                 "<img src=\"RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png\">"
             ],
@@ -502,7 +502,7 @@
             "__type__": "Note",
             "fields": [
                 "Jakým způsobem vypočátáme ŠT v exponenciální šifře",
-                "\\(c = |p^e|_m\\)<br><div>kde&nbsp;\\(0 \\leq c&nbsp; &lt; m\\)</div>",
+                "Pomocí vzorce:<br>\\(c = |p^e|_m\\)<br><div>kde&nbsp;\\(0 \\leq c&nbsp; &lt; m\\)<br>c == zašifrované písmeno<br>p == OT písmeno<br>e == klíč - exponent</div>",
                 ""
             ],
             "guid": "ge$sv,Cq8?",
@@ -561,6 +561,32 @@
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
                 "bez-2-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš šifru jednoduché substituce",
+                "<div>Jednoduchá substituce - jednu a tutéž záměnu (zamíchání) pro celý OT \\(\\Rightarrow\\), Caesarova šifra \\((\\mathrm{A} \\rightarrow \\mathrm{D}, \\mathrm{B} \\rightarrow \\mathrm{E}, \\ldots \\mathrm{W} \\rightarrow \\mathrm{Z}, \\mathrm{X} \\rightarrow \\mathrm{A},\\).&nbsp;<span style=\"color: var(--text-fg);\">\\(Y \\rightarrow B, Z \\rightarrow C)\\). Pokud \\(A=0, B=1, \\ldots, Z=25, p\\) označuje</span><br></div><div>písmeno OT a c označuje písmeno ŠT, pak \\(c=|p+3|_{26},\\) kde \\(0 \\leq c \\leq 25\\)</div>",
+                "<img src=\"ty9q0zDzjWAJRAC9a1XD53AAzBQcDt1-2T813PP9VK0.original.fullsize.png\">"
+            ],
+            "guid": "J_=q5&Qtod",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je to Viegnerův Systém?",
+                "Periodicky opakující se heslo v polyalpha šifře == \\(\\Rightarrow\\) Vigènerův systém.",
+                ""
+            ],
+            "guid": "l7K2Z,2a}X",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
             ]
         }
     ]
