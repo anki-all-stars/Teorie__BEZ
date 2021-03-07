@@ -70,11 +70,15 @@
         "ahkRXu3hLl8teSoMZxoGu3aighUDica4PFW0tAHeiCs.original.fullsize.png",
         "bM_Jb6xMNdYdjoRPiQwizCfFp5gQCjw-ahqwZjA3Rw0.original.fullsize.png",
         "dpd8tOvK-FAWIQYgYm3nDzQWjbh5rk3GAQNZYkgtBv8.original.fullsize.png",
+        "paste-14f5d3ac05179f62694b14fb43e23665e425aa32.jpg",
         "paste-3aff1931ca01dc503087b70890224747a1d5e940.jpg",
+        "paste-50134f88101477c7bd9d1420d2c3477dabd6d8c4.jpg",
+        "paste-5029800829dfbaa5753c15c1e6f0194d2acbf867.jpg",
         "paste-9554cac71d0b093d5e702664831f468f11a74918.jpg",
         "paste-dc63f2d6e79ba5f330da25654406c0f9a812ab7b.jpg",
         "paste-f12ee92732f11a53a07bb96396b0e536037a9f5c.jpg",
         "paste-f5da1e82e37c751528197bfc2d7787d8502039b9.jpg",
+        "paste-f8bee1c9f6fd168d0bfc4e654e20b46aedbb7253.jpg",
         "taDxaRCxpZHxEWAQNoG_mNYVFHi1XC78NEUEqJ549RM.original.fullsize.png",
         "ty9q0zDzjWAJRAC9a1XD53AAzBQcDt1-2T813PP9VK0.original.fullsize.png"
     ],
@@ -127,7 +131,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "npfl114-1-week"
+                "bez-3-tyden"
             ],
             "tmpls": [
                 {
@@ -587,6 +591,84 @@
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
                 "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj symetrickou proudovou šifru",
+                "<img src=\"paste-5029800829dfbaa5753c15c1e6f0194d2acbf867.jpg\">",
+                ""
+            ],
+            "guid": "PV~]^q`-OQ",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaký je rozdíl mezi proudovými a blokovými šiframi?",
+                "<img src=\"paste-14f5d3ac05179f62694b14fb43e23665e425aa32.jpg\">",
+                ""
+            ],
+            "guid": "b.;u;Y*L3r",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš Vernamovu šifru",
+                "<img src=\"paste-f8bee1c9f6fd168d0bfc4e654e20b46aedbb7253.jpg\">",
+                ""
+            ],
+            "guid": "M<{3W]{Sd;",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je absolutně bezpečná šifra?",
+                "<img src=\"paste-50134f88101477c7bd9d1420d2c3477dabd6d8c4.jpg\">",
+                ""
+            ],
+            "guid": "m<I-x~Jxnp",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je základ šifry RC4?",
+                "Pomocná tabulka S, která generuje bajty hesla \\(h_0, h_1, ...,\\) které xorují na OT nebo ŠT",
+                ""
+            ],
+            "guid": "CZjD?<Jw/,",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je základ šifry A5/1?",
+                "3 LFSR registry a jejich nelineární posun, generující bity na xorování s OT",
+                ""
+            ],
+            "guid": "m4^xWoRaR{",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-3-tyden"
             ]
         }
     ]
