@@ -70,18 +70,32 @@
         "ahkRXu3hLl8teSoMZxoGu3aighUDica4PFW0tAHeiCs.original.fullsize.png",
         "bM_Jb6xMNdYdjoRPiQwizCfFp5gQCjw-ahqwZjA3Rw0.original.fullsize.png",
         "dpd8tOvK-FAWIQYgYm3nDzQWjbh5rk3GAQNZYkgtBv8.original.fullsize.png",
+        "paste-0dd5be15868f14315baea101c21d1a44d896e0da.jpg",
         "paste-14f5d3ac05179f62694b14fb43e23665e425aa32.jpg",
+        "paste-1a7a329a40f2c8a720e0ee8cf99f46ea8292e6f1.jpg",
         "paste-3aff1931ca01dc503087b70890224747a1d5e940.jpg",
+        "paste-491565ee1a3d6532ae61d183c0309abc10877bbe.jpg",
+        "paste-500558afa761d49b60a697de62ca88502289e169.jpg",
         "paste-50134f88101477c7bd9d1420d2c3477dabd6d8c4.jpg",
         "paste-5029800829dfbaa5753c15c1e6f0194d2acbf867.jpg",
+        "paste-6fc2b84a6eca6bc167b73e4cd614dc91b163a610.jpg",
+        "paste-933257636737f1bc06d4bf95b7b4f2e6053e3d99.jpg",
         "paste-9554cac71d0b093d5e702664831f468f11a74918.jpg",
+        "paste-b1f898248e91fd4fcadaceeb041f53da90da3c26.jpg",
+        "paste-bf9edf543dc1e208c7410d9f4da6dbf5a69e10be.jpg",
+        "paste-cb4d297cd4b3fb38dd714afcf23e6be5c5862c94.jpg",
+        "paste-ccceccd8a7d6b2f0bb249ca720bc6e92a63a4eac.jpg",
+        "paste-d2d6788eeef4c8f585fbb8110bb6aa31dedc6b69.jpg",
+        "paste-d7307998ea1ebc53bb6a3e836210797d8f887914.jpg",
         "paste-dc63f2d6e79ba5f330da25654406c0f9a812ab7b.jpg",
+        "paste-e5348e9c39c02ad58d94ad52a3e6fbaadb613a2a.jpg",
         "paste-f12ee92732f11a53a07bb96396b0e536037a9f5c.jpg",
         "paste-f5da1e82e37c751528197bfc2d7787d8502039b9.jpg",
         "paste-f8bee1c9f6fd168d0bfc4e654e20b46aedbb7253.jpg",
         "taDxaRCxpZHxEWAQNoG_mNYVFHi1XC78NEUEqJ549RM.original.fullsize.png",
         "ty9q0zDzjWAJRAC9a1XD53AAzBQcDt1-2T813PP9VK0.original.fullsize.png"
     ],
+    "mid": 1612629169763,
     "name": "Teorie::BEZ",
     "note_models": [
         {
@@ -131,7 +145,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "bez-3-tyden"
+                "psi-3-tyden"
             ],
             "tmpls": [
                 {
@@ -454,7 +468,7 @@
             "__type__": "Note",
             "fields": [
                 "Popiš blokové šifry",
-                "<div>Blokové - polygrafické substituční šifry Uvažujeme šifru s blokem o délce jednoho bigramu OT, který je převáděn do ŠT s dvoupísmenovými bloky. Na konec zprávy přidáváme písmeno X v případě, že zpráva končí blokem s jedním písmenem.<br><br>Pro každou dvojici je potom vypočten ST napříkald:</div><div><br></div><div><img src=\"paste-3aff1931ca01dc503087b70890224747a1d5e940.jpg\"><br></div><div><br></div><div>Dešifrování bude řešení dvou lineárních rovnic v modulární aritmetice s modulem 26 pro neznáme p_1 a p_2:<br><br><img src=\"paste-9554cac71d0b093d5e702664831f468f11a74918.jpg\"><br></div><div><br></div><div>Maticově:</div><div><img src=\"paste-f5da1e82e37c751528197bfc2d7787d8502039b9.jpg\"><br></div><div><br></div><div>Zobecněně:</div><div><br></div><div><img src=\"paste-dc63f2d6e79ba5f330da25654406c0f9a812ab7b.jpg\"><br></div><div><br></div><div>Shrnutí:</div><div><br></div><div><img src=\"paste-f12ee92732f11a53a07bb96396b0e536037a9f5c.jpg\"><br></div>",
+                "<div>Uvažujeme šifru s blokem o délce jednoho bigramu OT, který je převáděn do ŠT s dvoupísmenovými bloky. Na konec zprávy přidáváme písmeno X v případě, že zpráva končí blokem s jedním písmenem.<br><br>Pro každou dvojici je potom vypočten ST napříkald:</div><div><br></div><div><img src=\"paste-3aff1931ca01dc503087b70890224747a1d5e940.jpg\"><br></div><div><br></div><div>Dešifrování bude řešení dvou lineárních rovnic v modulární aritmetice s modulem 26 pro neznáme p_1 a p_2:<br><br><img src=\"paste-9554cac71d0b093d5e702664831f468f11a74918.jpg\"><br></div><div><br></div><div>Maticově:</div><div><img src=\"paste-f5da1e82e37c751528197bfc2d7787d8502039b9.jpg\"><br></div><div><br></div><div>Zobecněně:</div><div><br></div><div><img src=\"paste-dc63f2d6e79ba5f330da25654406c0f9a812ab7b.jpg\"><br></div><div><br></div><div>Shrnutí:</div><div><br></div><div><img src=\"paste-f12ee92732f11a53a07bb96396b0e536037a9f5c.jpg\"><br></div>",
                 "<div>shorten the fucking answer</div><div><br></div><img src=\"bM_Jb6xMNdYdjoRPiQwizCfFp5gQCjw-ahqwZjA3Rw0.original.fullsize.png\"><div><img src=\"GuLk0IxP4_o60WmK3VoUruTrDLYAYmdHs-1TdjPTZxk.original.fullsize.png\"><br></div>"
             ],
             "guid": "FIMVp5iF)2",
@@ -518,7 +532,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Jak dešifruješ exponenciální šifru",
+                "Jak <b>dešifruješ</b> exponenciální šifru",
                 "<div>K dešifrování bloku \\(c\\) ŠT potřebujeme znát dešifrovací klíč, tj. celé číslo \\(d\\), pro které platí \\(d e \\equiv 1(\\bmod m-1) \\Rightarrow d\\) je multiplikativní inverze \\(e\\) modulo \\((m-1),\\) která existuje, pokud \\(\\operatorname{gcd}(e, m-1)=1 \\Rightarrow\\) dešifrovací vztah pro náš blok \\(p\\) OT získame:</div>\n<div>\\(\\left|c^{d}\\right|_{m}=\\left|\\left(p^{e}\\right)^{d}\\right|_{m}=\\left|p^{e d}\\right|_{m}=\\left|p^{k(m-1)+1}\\right|_{m}=\\left|\\left(p^{m-1}\\right)^{k} p\\right|_{m}=|p|_{m}\\)</div>\n<div>kde \\(d e=k(m-1)+1,\\) pro nějaké celé číslo \\(k,\\) protože \\(d e \\equiv 1\\) \\((\\bmod m-1)\\). Při odvození vztahu pro dešifrování bloku ŠT jsme použili malou Fermatovu větu: \\(p^{m-1} \\equiv 1(\\bmod m)\\).</div>",
                 ""
             ],
@@ -669,6 +683,149 @@
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
                 "bez-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj blokovou šifru",
+                "<img src=\"paste-6fc2b84a6eca6bc167b73e4cd614dc91b163a610.jpg\">",
+                ""
+            ],
+            "guid": "kUNaTKv-VR",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj Feistelův kryptosystém",
+                "<img src=\"paste-1a7a329a40f2c8a720e0ee8cf99f46ea8292e6f1.jpg\">",
+                ""
+            ],
+            "guid": "ir2qRV~+Q!",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co tvoří základ šifry DES?",
+                "Feistlova funkce, která se aplikuje na jednu půlku 64b bloků, a následně sečtena s druhou půlkou a půlky se prohodí a to celé 16-krát",
+                ""
+            ],
+            "guid": "t;G8l7fL6~",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš princip fungování Feistelovi (rundovní) funkce ( v rámci DES )",
+                "1. Expanze - 32bitový půl-blok je rozšířen na 48 bitů<div>2. Key mixing - Výsledek je zXORován s podklíčem<br>3. Substituce - 48 bitů je rozděleno na 8 6bitových částí a ty jsou nahrezeny podle lookup \\(2^6 \\rightarrow 2^4\\) tabulky<br>4. Permutace - 32 bitů je permutováno podle dané permutace designované pro co největší confusion</div>",
+                ""
+            ],
+            "guid": "E#nv9XJH,(",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš šifru AES",
+                "Skládá se z následujícíh kroků aplikovaných na 4x4 bajtů<div><br></div><div>1. Expanze klíče - rundovní (prostě delší) klíče jsou odvozeny z původního klíče</div><div>2. Přidání prvního klíče - XOR zprávy s rundovním klíčem</div><div>3. 9, 11, nebo 13 iterací následujícího (podle délky klíče):</div><div>&nbsp; &nbsp; a. SubBytes - substituce podle tabulky</div><div>&nbsp; &nbsp; b. ShiftRows - v bloku jsou posunuty řádky bloku</div><div>&nbsp; &nbsp; c. MixColumns - operace při které jsou prohozeny a prosčítány sloupce bloku</div><div>&nbsp; &nbsp; d. AddRoundKey - XOR bloku s rundovním klíčem</div><div>4. Poslední iterace</div><div>&nbsp; &nbsp; a. SubBytes</div><div>&nbsp; &nbsp; b. ShiftRows</div><div>&nbsp; &nbsp; c. AddRoundKey</div>",
+                "<img src=\"paste-933257636737f1bc06d4bf95b7b4f2e6053e3d99.jpg\">"
+            ],
+            "guid": "NB$7xDT=!s",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co znamená ECB operační mód?",
+                "<div><img src=\"paste-cb4d297cd4b3fb38dd714afcf23e6be5c5862c94.jpg\"><br></div><div>Každý blok v šifře je transformován nezávislne na ostatních</div>",
+                ""
+            ],
+            "guid": "g^v%v/,SX[",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co znamená CBC operační mód?",
+                "<img src=\"paste-e5348e9c39c02ad58d94ad52a3e6fbaadb613a2a.jpg\"><div><img src=\"paste-d2d6788eeef4c8f585fbb8110bb6aa31dedc6b69.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "nH[V19<.I]",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co znamená CFB operační mód?",
+                "<img src=\"paste-bf9edf543dc1e208c7410d9f4da6dbf5a69e10be.jpg\"><div><img src=\"paste-b1f898248e91fd4fcadaceeb041f53da90da3c26.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "ov|`2Wdj]!",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co znamená OFB operační mód?",
+                "<div><img src=\"paste-ccceccd8a7d6b2f0bb249ca720bc6e92a63a4eac.jpg\"><br></div><div><img src=\"paste-b1f898248e91fd4fcadaceeb041f53da90da3c26.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "dE;W5zj&)&",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je metoda solení?",
+                "<img src=\"paste-491565ee1a3d6532ae61d183c0309abc10877bbe.jpg\">",
+                ""
+            ],
+            "guid": "lU8#CGx@~M",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je MAC?",
+                "<img src=\"paste-500558afa761d49b60a697de62ca88502289e169.jpg\"><div><img src=\"paste-0dd5be15868f14315baea101c21d1a44d896e0da.jpg\"><br></div><div><img src=\"paste-d7307998ea1ebc53bb6a3e836210797d8f887914.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "sD8a2s53*i",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
             ]
         }
     ]
