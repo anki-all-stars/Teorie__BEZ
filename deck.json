@@ -61,6 +61,7 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "1024px-SHA-1.svg.png",
         "B4t5qwCp2sypkwM_4tRLyiuBq23vCZ-I6-m-a2g0UNQ.original.fullsize.png",
         "EPzynjrdBMZqxGVtZ0De2lMmn8QYz1d538kQ5tHBZTo.original.fullsize.png",
         "GuLk0IxP4_o60WmK3VoUruTrDLYAYmdHs-1TdjPTZxk.original.fullsize.png",
@@ -73,25 +74,34 @@
         "paste-0dd5be15868f14315baea101c21d1a44d896e0da.jpg",
         "paste-14f5d3ac05179f62694b14fb43e23665e425aa32.jpg",
         "paste-1a7a329a40f2c8a720e0ee8cf99f46ea8292e6f1.jpg",
+        "paste-2cd86a3cf56881b27aa352c815e14856a73d6355.jpg",
+        "paste-34afafceec57576f504e8253db60e42e774b21d5.jpg",
         "paste-3aff1931ca01dc503087b70890224747a1d5e940.jpg",
         "paste-491565ee1a3d6532ae61d183c0309abc10877bbe.jpg",
         "paste-500558afa761d49b60a697de62ca88502289e169.jpg",
         "paste-50134f88101477c7bd9d1420d2c3477dabd6d8c4.jpg",
         "paste-5029800829dfbaa5753c15c1e6f0194d2acbf867.jpg",
+        "paste-50dc046aaf1e9cf3768e7f248593e83856818a42.jpg",
+        "paste-661c4211a8514b35fe8f931305d76eff37c95cb6.jpg",
         "paste-6fc2b84a6eca6bc167b73e4cd614dc91b163a610.jpg",
         "paste-933257636737f1bc06d4bf95b7b4f2e6053e3d99.jpg",
         "paste-9554cac71d0b093d5e702664831f468f11a74918.jpg",
+        "paste-a8196a25dc1e476213a6010ec7fc3c59429e9e5e.jpg",
         "paste-b1f898248e91fd4fcadaceeb041f53da90da3c26.jpg",
         "paste-bf9edf543dc1e208c7410d9f4da6dbf5a69e10be.jpg",
         "paste-cb4d297cd4b3fb38dd714afcf23e6be5c5862c94.jpg",
         "paste-ccceccd8a7d6b2f0bb249ca720bc6e92a63a4eac.jpg",
         "paste-d2d6788eeef4c8f585fbb8110bb6aa31dedc6b69.jpg",
         "paste-d7307998ea1ebc53bb6a3e836210797d8f887914.jpg",
+        "paste-d871809dac82c550a953d94c9f7112df2fa91219.jpg",
         "paste-dc63f2d6e79ba5f330da25654406c0f9a812ab7b.jpg",
+        "paste-dc6c02542c344f63211e5ed17f5205dc8cd46a2c.jpg",
         "paste-e5348e9c39c02ad58d94ad52a3e6fbaadb613a2a.jpg",
+        "paste-ed9fd67b7df166e69407760bb2534498d449d7ec.jpg",
         "paste-f12ee92732f11a53a07bb96396b0e536037a9f5c.jpg",
         "paste-f5da1e82e37c751528197bfc2d7787d8502039b9.jpg",
         "paste-f8bee1c9f6fd168d0bfc4e654e20b46aedbb7253.jpg",
+        "paste-fc783c1ebf716ff2773d3ce61c9fdde382998762.jpg",
         "taDxaRCxpZHxEWAQNoG_mNYVFHi1XC78NEUEqJ549RM.original.fullsize.png",
         "ty9q0zDzjWAJRAC9a1XD53AAzBQcDt1-2T813PP9VK0.original.fullsize.png"
     ],
@@ -145,7 +155,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "psi-3-tyden"
+                "zum-5-tyden"
             ],
             "tmpls": [
                 {
@@ -826,6 +836,149 @@
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
                 "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice jednosměrné funkce",
+                "<img src=\"paste-661c4211a8514b35fe8f931305d76eff37c95cb6.jpg\">",
+                ""
+            ],
+            "guid": "pA*)=[y7hM",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice hašovací funkce",
+                "<img src=\"paste-d871809dac82c550a953d94c9f7112df2fa91219.jpg\">",
+                ""
+            ],
+            "guid": "LZnl:PMx.R",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice bezkoliznosti 1. řádu",
+                "<img src=\"paste-dc6c02542c344f63211e5ed17f5205dc8cd46a2c.jpg\">",
+                ""
+            ],
+            "guid": "wIM.ad$djQ",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice bezkoliznosti 2. řádu",
+                "<img src=\"paste-fc783c1ebf716ff2773d3ce61c9fdde382998762.jpg\">",
+                ""
+            ],
+            "guid": "cclTIfEm5i",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co říká narozeninový paradox?",
+                "<img src=\"paste-a8196a25dc1e476213a6010ec7fc3c59429e9e5e.jpg\">",
+                ""
+            ],
+            "guid": "z#;Pz.!XxD",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj Damgard-Marklovu konstrukci",
+                "<img src=\"paste-50dc046aaf1e9cf3768e7f248593e83856818a42.jpg\"><div><br></div><div>Kde H_0 je inicilizační vektor</div><div><br></div><div>H_i je hash v n-té iteraci</div><div><br></div><div>f je kompresní funkce</div><div><br></div><div>M_i je i-tý blok zprávy</div>",
+                ""
+            ],
+            "guid": "ejlfkhh!I?",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pokud je hašovací funkce bezkolizní, musí být kompresní funkce bezkolizní?",
+                "Ano",
+                ""
+            ],
+            "guid": "G)Bh/f$CpB",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je náhodné orákulum?",
+                "<img src=\"paste-34afafceec57576f504e8253db60e42e774b21d5.jpg\">",
+                ""
+            ],
+            "guid": "pnw?tQUjzd",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je davies-Meyerova kompresní funkce?",
+                "<img src=\"paste-2cd86a3cf56881b27aa352c815e14856a73d6355.jpg\">",
+                ""
+            ],
+            "guid": "Mx69Jm*>I!",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak funguje algoritmus SHA-1?",
+                "<img src=\"1024px-SHA-1.svg.png\"><div><br></div><div>Kde A,B,C,D,E jsou 32bitové stavy&nbsp;</div><div>F je kompresní funkce</div><div>&lt;&lt;&lt; levé binární otočení</div><div>[+] jsou sčítání modulo 32</div><div>W_i je i-tý blok zprávy</div><div>K_i je iterační konstanta i-tí iterace</div>",
+                ""
+            ],
+            "guid": "yOi.)Fr/{+",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "K čemu je algoritmus HMAC?",
+                "<img src=\"paste-ed9fd67b7df166e69407760bb2534498d449d7ec.jpg\">",
+                ""
+            ],
+            "guid": "iq,Bwb7?Wb",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
             ]
         }
     ]
