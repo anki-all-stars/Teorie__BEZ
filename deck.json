@@ -69,6 +69,7 @@
         "ahkRXu3hLl8teSoMZxoGu3aighUDica4PFW0tAHeiCs.original.fullsize.png",
         "bM_Jb6xMNdYdjoRPiQwizCfFp5gQCjw-ahqwZjA3Rw0.original.fullsize.png",
         "paste-14f5d3ac05179f62694b14fb43e23665e425aa32.jpg",
+        "paste-15cb366f8f050ff3f2dd1bde85892951fac67b67.jpg",
         "paste-1a7a329a40f2c8a720e0ee8cf99f46ea8292e6f1.jpg",
         "paste-2cd86a3cf56881b27aa352c815e14856a73d6355.jpg",
         "paste-34afafceec57576f504e8253db60e42e774b21d5.jpg",
@@ -77,6 +78,7 @@
         "paste-50134f88101477c7bd9d1420d2c3477dabd6d8c4.jpg",
         "paste-5029800829dfbaa5753c15c1e6f0194d2acbf867.jpg",
         "paste-50dc046aaf1e9cf3768e7f248593e83856818a42.jpg",
+        "paste-54015cf59558dccb77226c03836acf1389bff69a.jpg",
         "paste-661c4211a8514b35fe8f931305d76eff37c95cb6.jpg",
         "paste-933257636737f1bc06d4bf95b7b4f2e6053e3d99.jpg",
         "paste-9eb59956aecf534b0e2a9be8bbb7dddd4d677619.jpg",
@@ -142,9 +144,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "osy-7-tyden"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{Question}}\n\n<hr id=answer>\n\n<div style=\"text-align: center;\">\n    <div style=\"display: inline-block; text-align: left;\">\n\t\t{{Solution}}\n    </div>\n</div>",
@@ -928,6 +928,32 @@
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
                 "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jakým způsobem se v RC4 generuje náhodná posloupnost S?",
+                "<img src=\"paste-15cb366f8f050ff3f2dd1bde85892951fac67b67.jpg\">",
+                ""
+            ],
+            "guid": "Os$|P)|K(i",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jakým způsobem se v RC4 generuje heslo h?",
+                "<img src=\"paste-54015cf59558dccb77226c03836acf1389bff69a.jpg\">",
+                ""
+            ],
+            "guid": "AZ]?}T-c=?",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-3-tyden"
             ]
         }
     ]
