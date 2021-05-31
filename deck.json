@@ -68,9 +68,11 @@
         "RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png",
         "ahkRXu3hLl8teSoMZxoGu3aighUDica4PFW0tAHeiCs.original.fullsize.png",
         "bM_Jb6xMNdYdjoRPiQwizCfFp5gQCjw-ahqwZjA3Rw0.original.fullsize.png",
+        "paste-0b337d1011384aa546608b4b499cac5754252e2c.jpg",
         "paste-14f5d3ac05179f62694b14fb43e23665e425aa32.jpg",
         "paste-15cb366f8f050ff3f2dd1bde85892951fac67b67.jpg",
         "paste-1a7a329a40f2c8a720e0ee8cf99f46ea8292e6f1.jpg",
+        "paste-27e0eb646cd8b8277928fed9d9e3f675f8e0c1f4.jpg",
         "paste-2cd86a3cf56881b27aa352c815e14856a73d6355.jpg",
         "paste-34afafceec57576f504e8253db60e42e774b21d5.jpg",
         "paste-389922da46a54c3ebbe7b05b61507b8bec3fa667.jpg",
@@ -79,18 +81,27 @@
         "paste-5029800829dfbaa5753c15c1e6f0194d2acbf867.jpg",
         "paste-50dc046aaf1e9cf3768e7f248593e83856818a42.jpg",
         "paste-54015cf59558dccb77226c03836acf1389bff69a.jpg",
+        "paste-56639b4062c80521088e7cb55306e3943e1d4ef9.jpg",
+        "paste-61d5ffc9a256bb0a78fa028aae223e91c1ab66ed.jpg",
+        "paste-622fedab722b33f9400526d44b0ab17a5b821111.jpg",
         "paste-661c4211a8514b35fe8f931305d76eff37c95cb6.jpg",
+        "paste-6d27b74c6b3c2944cc2744a78ac16f2f930a8dfa.jpg",
         "paste-933257636737f1bc06d4bf95b7b4f2e6053e3d99.jpg",
         "paste-9eb59956aecf534b0e2a9be8bbb7dddd4d677619.jpg",
         "paste-a8196a25dc1e476213a6010ec7fc3c59429e9e5e.jpg",
+        "paste-a955248ea6b45d97d1df3860e405641c745471f9.jpg",
+        "paste-b17a53ec64c2b93f101cf1b6ff5b72e1e1a37663.jpg",
         "paste-b1f898248e91fd4fcadaceeb041f53da90da3c26.jpg",
+        "paste-bc8db2f2d3ffbf1dd2332cc356eb5dc4b1ef5e5b.jpg",
         "paste-bf9edf543dc1e208c7410d9f4da6dbf5a69e10be.jpg",
+        "paste-c7be3fea9d2978d4a9da51e0f0e42f9e7ef8aa4f.jpg",
         "paste-cb4d297cd4b3fb38dd714afcf23e6be5c5862c94.jpg",
         "paste-ccceccd8a7d6b2f0bb249ca720bc6e92a63a4eac.jpg",
         "paste-d2d6788eeef4c8f585fbb8110bb6aa31dedc6b69.jpg",
         "paste-d871809dac82c550a953d94c9f7112df2fa91219.jpg",
         "paste-dc6c02542c344f63211e5ed17f5205dc8cd46a2c.jpg",
         "paste-e5348e9c39c02ad58d94ad52a3e6fbaadb613a2a.jpg",
+        "paste-e5a4feb4afc3a031a5f1b6d70c4a64076443ef41.jpg",
         "paste-fc783c1ebf716ff2773d3ce61c9fdde382998762.jpg",
         "taDxaRCxpZHxEWAQNoG_mNYVFHi1XC78NEUEqJ549RM.original.fullsize.png",
         "ty9q0zDzjWAJRAC9a1XD53AAzBQcDt1-2T813PP9VK0.original.fullsize.png"
@@ -110,7 +121,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "font": "Liberation Sans",
@@ -173,7 +184,8 @@
             "guid": "zT=olbVl/!",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -186,7 +198,8 @@
             "guid": "EvAqA;C-NQ",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -199,7 +212,8 @@
             "guid": "J=Cbil0K22",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -212,7 +226,8 @@
             "guid": "D:`kUoQrgz",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -225,7 +240,8 @@
             "guid": "Jllmx@]yHn",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -238,7 +254,8 @@
             "guid": "q;xD^F*>>T",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -251,7 +268,8 @@
             "guid": "k}9}6JuT$2",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -316,7 +334,8 @@
             "guid": "z;?4-ymcj|",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -342,7 +361,8 @@
             "guid": "sLL5H:Hynn",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -355,7 +375,8 @@
             "guid": "F]mHY25pT0",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -368,7 +389,8 @@
             "guid": "D)ss39B{KG",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -381,7 +403,8 @@
             "guid": "DJ3%1TI2HT",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -394,7 +417,8 @@
             "guid": "l>dyHf4l#j",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -407,7 +431,8 @@
             "guid": "M.Ej/tzj+a",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -420,7 +445,8 @@
             "guid": "v%@xi_^.P6",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -446,7 +472,8 @@
             "guid": "e4aioK%ph2",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -563,7 +590,8 @@
             "guid": "J_=q5&Qtod",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -654,7 +682,8 @@
             "guid": "m4^xWoRaR{",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-3-tyden"
+                "bez-3-tyden",
+                "skip"
             ]
         },
         {
@@ -680,7 +709,8 @@
             "guid": "t;G8l7fL6~",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-4-tyden"
+                "bez-4-tyden",
+                "skip"
             ]
         },
         {
@@ -901,7 +931,8 @@
             "guid": "Mx69Jm*>I!",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-5-tyden"
+                "bez-5-tyden",
+                "skip"
             ]
         },
         {
@@ -954,6 +985,123 @@
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
                 "bez-3-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš DES",
+                "<div>Nelineární část je jen v S-box</div><div>Celkem má 16 rund</div><div>Je to šifra feistelova typu</div><div>Šifruje 64b bloky (2x32b)<br></div><div><br></div><img src=\"paste-e5a4feb4afc3a031a5f1b6d70c4a64076443ef41.jpg\">",
+                ""
+            ],
+            "guid": "Fbz9{kf}8{",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš šifru AES",
+                "Není feistelova typu<div>Používá iterativní fci</div><div>Používý buď 128,192,256b klíč s 10,12,14 rundami</div><div>Práce s polynomy</div><div>Dá se paralelizovat</div><div>Nelinearita v subbytes,<br>modulární/multiplikativní inverze polynomu, k dešifrovaní jsou potřeba inverzní funkce</div><div><br></div><div><img src=\"paste-0b337d1011384aa546608b4b499cac5754252e2c.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "w808<%aVt=",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-4-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Davies-Meyerova konstrukce kompresní funkce?",
+                "<img src=\"paste-b17a53ec64c2b93f101cf1b6ff5b72e1e1a37663.jpg\">",
+                ""
+            ],
+            "guid": "z$t=h{}:Qq",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Je kompresní funkce dle Damgard-Merklovy konstrukce bezpečná?",
+                "<div>Pokud je její hashovací funkce bezpečná, potom ano.</div><div><br></div><img src=\"paste-6d27b74c6b3c2944cc2744a78ac16f2f930a8dfa.jpg\">",
+                ""
+            ],
+            "guid": "ANI2Q,f`qQ",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak vytváříme padding u kompresní funkce?",
+                "<img src=\"paste-a955248ea6b45d97d1df3860e405641c745471f9.jpg\">",
+                ""
+            ],
+            "guid": "L!FAcC2;Hc",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak funguje el-gamal?",
+                "V podstatě instantní Diffie Helman<div><br></div><div><b>Příprava (vytvoření&nbsp;</b>\\( ( m, g, y_A ) \\)<b>&nbsp;) :</b></div><div><br></div><div>Alice zvolí kontrolní čísla \\(g, m\\) ( groupa řádu m - 1 a její generátor ), náhodný soukromá klíč&nbsp;\\(k_A\\)</div><div>Alice vypočítá&nbsp;\\(y_A = |g^{y_A}|_m\\)</div><div>Alice zveření uspořádanou trojici&nbsp;\\( (m, g, y_A ) \\)</div><div><br></div><div><b>Šifrování (vytvoření </b>\\( ( y_b, c ) \\)<b> )</b></div><div><br></div><div>Bob má&nbsp;\\( (m, g, y_A) \\)</div><div>Bob zvolí&nbsp;\\( 0 &lt; k_B &lt; m \\) a pomocí něho vypočítá&nbsp;\\( y_B = |g^{k_B}|_m \\)</div><div>Bob vypočítá sdílený klíč pomocí&nbsp;\\( K = |y_{A}^{k_B}|_m \\)</div><div>Bob zašifruje zprávu p pomocí vztahu&nbsp;\\(c = | p * K |_m \\)</div><div>Bob zveřejní \\(( y_B, c )\\)</div><div><br></div><div><b>Dešifrování (získání&nbsp;</b>\\(p\\)<b> z informací co má Alice)</b></div><div><br></div><div>Alice má \\(k_A\\), \\( ( m, g, y_A ) \\)&nbsp;i&nbsp;\\(( y_B, c )\\)</div><div>Alice spočítá sdílený klíč&nbsp;\\( K = |y_B^{k_A} |_m \\)</div><div>Alice spočítá \\(|K^-1|_m\\) (Euklidův rozšířený algo)</div><div>Alice dešifruje zprávu&nbsp;\\(p = |c * K^-1|\\)</div>",
+                "<img src=\"paste-56639b4062c80521088e7cb55306e3943e1d4ef9.jpg\"><div><br></div><div><img src=\"paste-622fedab722b33f9400526d44b0ab17a5b821111.jpg\"><br></div><div><img src=\"paste-61d5ffc9a256bb0a78fa028aae223e91c1ab66ed.jpg\"><br></div>"
+            ],
+            "guid": "sc?[FLa6u|",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj RSA",
+                "<img src=\"paste-bc8db2f2d3ffbf1dd2332cc356eb5dc4b1ef5e5b.jpg\">",
+                ""
+            ],
+            "guid": "cMC*w_<4wO",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj RSA-CRT",
+                "<img src=\"paste-c7be3fea9d2978d4a9da51e0f0e42f9e7ef8aa4f.jpg\">",
+                ""
+            ],
+            "guid": "G&ge<XC%/j",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-6-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak vypadá proces digitálního podpisu?",
+                "<img src=\"paste-27e0eb646cd8b8277928fed9d9e3f675f8e0c1f4.jpg\">",
+                ""
+            ],
+            "guid": "njW3{vN@n(",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-6-tyden"
             ]
         }
     ]
