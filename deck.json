@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "af9b5f18-7396-11eb-8ebc-38d5479d0148",
+    "crowdanki_uuid": "3987be24-c4be-11eb-8e22-c6fc00dae123",
     "deck_config_uuid": "51fd0716-67e9-11eb-a855-38d5479d0148",
     "deck_configurations": [
         {
@@ -68,20 +68,28 @@
         "RplOV-LOPUkiIW6hCZzoo95diaqyRZOl7lGxYITR-04.original.fullsize.png",
         "ahkRXu3hLl8teSoMZxoGu3aighUDica4PFW0tAHeiCs.original.fullsize.png",
         "bM_Jb6xMNdYdjoRPiQwizCfFp5gQCjw-ahqwZjA3Rw0.original.fullsize.png",
+        "paste-0872b9ce0e9fb3c9e8470b30489939c8ca425cc6.jpg",
         "paste-0b337d1011384aa546608b4b499cac5754252e2c.jpg",
+        "paste-0ce0dce66706d53c2ce90aed70d7903a7865702e.jpg",
+        "paste-0dcb1c548a1d85780fafc0791555e067e48a3f4d.jpg",
         "paste-14f5d3ac05179f62694b14fb43e23665e425aa32.jpg",
         "paste-15cb366f8f050ff3f2dd1bde85892951fac67b67.jpg",
         "paste-1a7a329a40f2c8a720e0ee8cf99f46ea8292e6f1.jpg",
+        "paste-253aff3ca39f6c7628996e92ebdc9d690a3b7728.jpg",
         "paste-27e0eb646cd8b8277928fed9d9e3f675f8e0c1f4.jpg",
         "paste-2cd86a3cf56881b27aa352c815e14856a73d6355.jpg",
+        "paste-2e2f93e654158e1c2a3ca2b787d60916ba4e0be2.jpg",
         "paste-34afafceec57576f504e8253db60e42e774b21d5.jpg",
+        "paste-3689284c10a0a65628218b56ae99403657ade59a.jpg",
         "paste-389922da46a54c3ebbe7b05b61507b8bec3fa667.jpg",
+        "paste-44f6f62913ed1b0f768e1d4d32f230c55d5c5450.jpg",
         "paste-491565ee1a3d6532ae61d183c0309abc10877bbe.jpg",
         "paste-50134f88101477c7bd9d1420d2c3477dabd6d8c4.jpg",
         "paste-5029800829dfbaa5753c15c1e6f0194d2acbf867.jpg",
         "paste-50dc046aaf1e9cf3768e7f248593e83856818a42.jpg",
         "paste-54015cf59558dccb77226c03836acf1389bff69a.jpg",
         "paste-56639b4062c80521088e7cb55306e3943e1d4ef9.jpg",
+        "paste-616e11e12c1d3aed63331ca082ef736160f4eb89.jpg",
         "paste-61d5ffc9a256bb0a78fa028aae223e91c1ab66ed.jpg",
         "paste-622fedab722b33f9400526d44b0ab17a5b821111.jpg",
         "paste-661c4211a8514b35fe8f931305d76eff37c95cb6.jpg",
@@ -90,10 +98,14 @@
         "paste-9eb59956aecf534b0e2a9be8bbb7dddd4d677619.jpg",
         "paste-a8196a25dc1e476213a6010ec7fc3c59429e9e5e.jpg",
         "paste-a955248ea6b45d97d1df3860e405641c745471f9.jpg",
+        "paste-aedf8687efbe79fa6d8d36e811429ad7424c4aee.jpg",
         "paste-b17a53ec64c2b93f101cf1b6ff5b72e1e1a37663.jpg",
         "paste-b1f898248e91fd4fcadaceeb041f53da90da3c26.jpg",
+        "paste-ba68752e8b79f49139d966fc0ed6952c53ab1295.jpg",
         "paste-bc8db2f2d3ffbf1dd2332cc356eb5dc4b1ef5e5b.jpg",
         "paste-bf9edf543dc1e208c7410d9f4da6dbf5a69e10be.jpg",
+        "paste-bfb7e2029a78fd173a737a237026d8aafcca3ace.jpg",
+        "paste-bfdc9efd85108f1f238d28cd681d90acb549de2d.jpg",
         "paste-c7be3fea9d2978d4a9da51e0f0e42f9e7ef8aa4f.jpg",
         "paste-cb4d297cd4b3fb38dd714afcf23e6be5c5862c94.jpg",
         "paste-ccceccd8a7d6b2f0bb249ca720bc6e92a63a4eac.jpg",
@@ -106,7 +118,6 @@
         "taDxaRCxpZHxEWAQNoG_mNYVFHi1XC78NEUEqJ549RM.original.fullsize.png",
         "ty9q0zDzjWAJRAC9a1XD53AAzBQcDt1-2T813PP9VK0.original.fullsize.png"
     ],
-    "mid": 1612629169763,
     "name": "Teorie::BEZ",
     "note_models": [
         {
@@ -295,7 +306,8 @@
             "guid": "ndUsO^t5n",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -341,7 +353,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Z jakých znalostí může být posuzována šifra (4.5)",
+                "Z jakých znalostí může být napadnuta šifra (4.5)",
                 "<div>Za předpokladu znalosti šifry, kryptoanalytik provádí luštění se znalostí</div><div><br></div><div>ŠT (Ciphertext-only attack)</div>\n<div>ŠT a jeden nebo víc OT (Known-plaintext attack)</div>\n<div>ŠT a odpovídající vybraný OT (Chosen-plaintext attack)</div>\n<div>ŠT, který je vybrán a k tomu dešifrovaný odpovídající OT (Chosen-ciphertext attack)</div>\n<div><br><br>(5) sjednocení metody 3. a 4. (Chosen-text atack)</div>",
                 "<img src=\"B4t5qwCp2sypkwM_4tRLyiuBq23vCZ-I6-m-a2g0UNQ.original.fullsize.png\">"
             ],
@@ -459,7 +471,8 @@
             "guid": "k`JuC*5uY&",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -486,7 +499,8 @@
             "guid": "FIMVp5iF)2",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-1-tyden"
+                "bez-1-tyden",
+                "skip"
             ]
         },
         {
@@ -532,7 +546,7 @@
             "__type__": "Note",
             "fields": [
                 "Jak <b>dešifruješ</b> exponenciální šifru",
-                "<div>Nechť&nbsp;\\(c\\) je ŠT</div><div>Nechť&nbsp;\\(d\\) je dešifrovací klíč \\(d e \\equiv 1(\\bmod m-1))</div><div><br></div><div><div>\\(\\left|c^{d}\\right|_{m}=\\left|\\left(p^{e}\\right)^{d}\\right|_{m}=\\left|p^{e d}\\right|_{m}=\\left|p^{k(m-1)+1}\\right|_{m}=\\left|\\left(p^{m-1}\\right)^{k} p\\right|_{m}=|p|_{m}\\)</div></div>",
+                "<div>Nechť&nbsp;\\(c\\) je ŠT</div><div>Nechť&nbsp;\\(d\\) je dešifrovací klíč \\( d e \\equiv 1 (\\bmod m-1) \\)</div><div><br></div><div><div>\\(\\left|c^{d}\\right|_{m}=\\left|\\left(p^{e}\\right)^{d}\\right|_{m}=\\left|p^{e d}\\right|_{m}=\\left|p^{k(m-1)+1}\\right|_{m}=\\left|\\left(p^{m-1}\\right)^{k} p\\right|_{m}=|p|_{m}\\)</div></div>",
                 ""
             ],
             "guid": "iKd5+Sv#.L",
@@ -545,13 +559,14 @@
             "__type__": "Note",
             "fields": [
                 "Časová složitost výpočtu exponenciální šifry",
-                "<div>Nechť&nbsp;\\(m \\in N, e \\in N, \\operator{gcd}() \\)</div><div><br></div><div>\\(c = |p^e|_m\\)</div><div><br></div><div>Časová složitost<br></div>\n<div>- Číslo \\(m\\) můžeme vyjádřit pomocí \\(k=\\left\\lceil\\log _{2}(m)\\right\\rceil\\) bitù</div>\n<div>- Pro každý blok \\(p\\) OT zašifrovaný pomocí \\(\\left|p^{e}\\right|_{m}\\) potřebujeme \\(O\\left(k^{3}\\right)\\) bitových operací</div>",
+                "<div>Nechť&nbsp;\\(m \\in N, e \\in N, \\mathop{gcd}() \\)</div><div><br></div><div>\\(c = |p^e|_m\\)</div><div><br></div><div>Časová složitost<br></div>\n<div>- Číslo \\(m\\) můžeme vyjádřit pomocí \\(k=\\left\\lceil\\log _{2}(m)\\right\\rceil\\) bitù</div>\n<div>- Pro každý blok \\(p\\) OT zašifrovaný pomocí \\(\\left|p^{e}\\right|_{m}\\) potřebujeme \\(O\\left(k^{3}\\right)\\) bitových operací</div>",
                 ""
             ],
             "guid": "u0)`zYzhai",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-2-tyden"
+                "bez-2-tyden",
+                "skip"
             ]
         },
         {
@@ -570,8 +585,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Popiš jakým způsobem lze zřídit společný klíč",
-                "Nechť&nbsp;\\(m\\) je velké prvočíslo a nechť je&nbsp;\\(a\\) je generátorem groupy&nbsp;\\(\\mathbb{Z}^*_m\\). Každý subjekt v síti si náhodně zvolí celé číslo&nbsp;\\(k_i\\) jako klíč tak, že&nbsp;\\(gcd(k_i, m - 1) = 1\\)<div><br></div><div>Subjekty mají svoje klíče&nbsp;\\(k_1, k_2\\).&nbsp;</div><div><br></div><div>První subjekt pošle druhému číslo&nbsp;\\(y_1 = |a^{k_1}|_m \\quad 0 &lt; y_1 &lt; m\\).</div><div>Druhý subjekt vypočítá společný klíč K následovně&nbsp;\\(K = |y_1^{k_2}|_m = |a^{k_1k_2}|_m \\quad 0 &lt; K &lt; m\\)</div><div><br></div><div>Podobně, druhý subjekt vyšle prvnímu subjektu číslo&nbsp;\\(y_2 = |a^{k_2}|_m&nbsp; \\quad 0 &lt; y_2 &lt; m\\)</div><div><br></div><div>A první objekt si vypočítá společný klíč K pomocí vztahu</div><div><br></div><div>\\( K = |y_2^{k_1}|_m = |a^{k_1k_2}|_m \\quad 0 &lt; K &lt; m\\)<br></div><div><br></div><div>Neautorizované subjekty nacházející se v komunikační síti nemohou najít společný klíč K v rozumném počítačovém čase, protože jsou nucení hledat logaritmus modulo \\(m\\) pro nalezení \\(K\\)</div><div><br></div><div>Tomto algoritmu se v podstatě říká Diffie-Hellmanův</div>",
+                "Popiš jakým způsobem lze zřídit společný klíč DF-E",
+                "Nechť&nbsp;\\(m\\) je velké prvočíslo a nechť je&nbsp;\\(a\\) je generátorem groupy&nbsp;\\(\\mathbb{Z}^*_m\\). Každý subjekt v síti si náhodně zvolí celé číslo&nbsp;\\(k_i\\) jako klíč tak, že&nbsp;\\(gcd(k_i, m - 1) = 1\\)<div><br></div><div>Subjekty mají svoje klíče&nbsp;\\(k_1, k_2\\).&nbsp;</div><div><br></div><div>První subjekt pošle druhému číslo&nbsp;\\(y_1 = |a^{k_1}|_m \\quad 0 &lt; y_1 &lt; m\\).</div><div>Druhý subjekt vypočítá společný klíč K následovně&nbsp;\\(K = |y_1^{k_2}|_m = |a^{k_1k_2}|_m \\quad 0 &lt; K &lt; m\\)</div><div><br></div><div>Podobně, druhý subjekt vyšle prvnímu subjektu číslo&nbsp;\\(y_2 = |a^{k_2}|_m&nbsp; \\quad 0 &lt; y_2 &lt; m\\)</div><div><br></div><div>A první objekt si vypočítá společný klíč K pomocí vztahu</div><div><br></div><div>\\( K = |y_2^{k_1}|_m = |a^{k_1k_2}|_m \\quad 0 &lt; K &lt; m\\)<br></div><div><br></div><div>Neautorizované subjekty nacházející se v komunikační síti nemohou najít společný klíč K v rozumném počítačovém čase, protože jsou nucení hledat logaritmus modulo \\(m\\) pro nalezení \\(K\\)</div>",
                 ""
             ],
             "guid": "Eae&[cH64|",
@@ -617,7 +632,8 @@
             "guid": "PV~]^q`-OQ",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-3-tyden"
+                "bez-3-tyden",
+                "skip"
             ]
         },
         {
@@ -669,7 +685,8 @@
             "guid": "CZjD?<Jw/,",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-3-tyden"
+                "bez-3-tyden",
+                "skip"
             ]
         },
         {
@@ -736,7 +753,8 @@
             "guid": "NB$7xDT=!s",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-4-tyden"
+                "bez-4-tyden",
+                "skip"
             ]
         },
         {
@@ -827,7 +845,8 @@
             "guid": "pA*)=[y7hM",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-5-tyden"
+                "bez-5-tyden",
+                "skip"
             ]
         },
         {
@@ -840,7 +859,8 @@
             "guid": "LZnl:PMx.R",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-5-tyden"
+                "bez-5-tyden",
+                "skip"
             ]
         },
         {
@@ -931,8 +951,7 @@
             "guid": "Mx69Jm*>I!",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
-                "bez-5-tyden",
-                "skip"
+                "bez-5-tyden"
             ]
         },
         {
@@ -1103,6 +1122,141 @@
             "tags": [
                 "bez-6-tyden"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice nepodmíněné bezpečnosti",
+                "<img src=\"paste-aedf8687efbe79fa6d8d36e811429ad7424c4aee.jpg\">",
+                ""
+            ],
+            "guid": "dJ&J-jW>!r",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice - podmíněná bezpečnost",
+                "<img src=\"paste-44f6f62913ed1b0f768e1d4d32f230c55d5c5450.jpg\">",
+                ""
+            ],
+            "guid": "H=XUoCTbp#",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice - prokazatelná bezpečnost",
+                "<img src=\"paste-2e2f93e654158e1c2a3ca2b787d60916ba4e0be2.jpg\">",
+                ""
+            ],
+            "guid": "DV(>LYO63c",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice - výpočetní bezpečnost",
+                "<img src=\"paste-253aff3ca39f6c7628996e92ebdc9d690a3b7728.jpg\">",
+                ""
+            ],
+            "guid": "j{.$l,zdc1",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-7-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "K čemu slouží John von Neumannův dekorelátor a jak funguje?",
+                "<img src=\"paste-616e11e12c1d3aed63331ca082ef736160f4eb89.jpg\">",
+                ""
+            ],
+            "guid": "JQ}$}aDd:U",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak funguje Blum-Blum-Shub PRNG",
+                "<img src=\"paste-3689284c10a0a65628218b56ae99403657ade59a.jpg\">",
+                ""
+            ],
+            "guid": "jMi+2]x~o7",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké jsou kroky v protokolu BB84?",
+                "<img src=\"paste-0872b9ce0e9fb3c9e8470b30489939c8ca425cc6.jpg\">",
+                ""
+            ],
+            "guid": "krALsOd[+^",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak otestovat jestli je PRNG kryptograficky bezpečný? (2 testy)",
+                "<img src=\"paste-ba68752e8b79f49139d966fc0ed6952c53ab1295.jpg\">",
+                ""
+            ],
+            "guid": "K*s,Idhc?z",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak probíhá Rabin Millerův test prvočíselnosti?",
+                "<img src=\"paste-0dcb1c548a1d85780fafc0791555e067e48a3f4d.jpg\">",
+                ""
+            ],
+            "guid": "tI?;^A/VFZ",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-8-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak zní Eulerova věta? Jaké má podmínky?",
+                "<img src=\"paste-bfb7e2029a78fd173a737a237026d8aafcca3ace.jpg\"><div><br></div><div>\\(a, n\\) musí být nesoudělné<br></div>",
+                ""
+            ],
+            "guid": "HsLZc`I<*H",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak zní malá fermatova věta? Jaké má podmínky?",
+                "<img src=\"paste-0ce0dce66706d53c2ce90aed70d7903a7865702e.jpg\"><div><br></div><div>\\(p\\) musí být prvočíslo<br></div><div><br></div><div>nebo</div><div><br></div><div><br></div><div><img src=\"paste-bfdc9efd85108f1f238d28cd681d90acb549de2d.jpg\"><br></div><div><br></div><div>Pokud&nbsp;\\(gcd(a, p) = 1\\)</div>",
+                ""
+            ],
+            "guid": "n$NZB>6OP/",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": []
         }
     ]
 }
